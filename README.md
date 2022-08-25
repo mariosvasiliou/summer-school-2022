@@ -40,6 +40,16 @@ following parts:
 - Add 2-step authentication
 - Convert frontend to VueJS
 
+## About Softline
+
+Softline Computer Systems Ltd was founded in 1996 with the aim of introducing the use of technology at the workplace. It’s the creator company of Zygos, the leading Legal Practice
+Management Software of Cyprus, trusted by more than 200 law firms and fiduciary service providers around the island and Altis Compliance & Practice Management Software. Through its
+software solutions around KYC/AML, Project Management, Timekeeping/Billing, Document Management and more, Softline helps firms involved in the provision of professional services
+such as Auditors, Accountants, Fiduciary providers and others, leverage cutting-edge cloud-based solutions in their way to digitally transform their daily practice and gain a
+competitive advantage in the constantly-evolving services market.
+
+[We are hiring](https://softline.com.cy/careers/)
+
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within App, please send an e-mail to Marios Vasiliou via [mariosv@softine.com.cy](mailto:mariosv@softline.com.cy). All security
